@@ -1,0 +1,25 @@
+*   [33m9569b23[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m modificato gitignore
+[31m|[m[32m\[m  
+[31m|[m * [33m0268f79[m[33m ([m[1;31morigin/branch1[m[33m)[m aggiunto .gitignore
+[31m|[m * [33md96b2fd[m C11 no
+* [32m|[m [33md8d8495[m aggiunto gitignore su master
+[32m|[m[32m/[m  
+* [33mb5ab93c[m commit with branch1
+* [33mbe19fa9[m C9 elimimo spazi
+*   [33m0f54895[m conflitto risolto
+[33m|[m[34m\[m  
+[33m|[m * [33m01b690e[m C8 solving
+* [34m|[m [33md86765c[m push insieme
+[34m|[m[34m/[m  
+*   [33m9e0b36c[m C7 risolto conflitto
+[35m|[m[36m\[m  
+[35m|[m * [33ma226674[m another commit
+* [36m|[m [33m8686b16[m C6 tutto bene
+[36m|[m[36m/[m  
+*   [33m841f33d[m 4 commit
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33mfd1b152[m C2 come stai?
+* [1;32m|[m [33m2cf5c28[m terzo commit
+[1;32m|[m[1;32m/[m  
+* [33m6088258[m C1 ciao manu
+* [33m41cc94b[m first commit
